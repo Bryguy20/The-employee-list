@@ -17,7 +17,7 @@
   
   ## [Usage](#table-of-contents)
   
-  ![alt text](asset/image/team-profile.png)
+  ![TEAM!](team-profile.png)
  
   ## License 
 
