@@ -17,15 +17,8 @@
   
   ## [Usage](#table-of-contents)
   
-  ```md
-   ![alt text] (asset/image/team-profile.png)
-  ```
-   
-  ```md
-  ![alt text] (asset/image/videoteam.gif)
-  ```
-   here are some example of the team profile.
-
+  ![alt text](asset/image/team-profile.png)
+ 
   ## License 
 
   This project is license under MIT
